@@ -3,7 +3,7 @@ using TestNinja.Fundamentals;
 
 namespace TestNinja.UnitTests
 {
-    [TextFixture]
+    [TestFixture]
     public class HtmlFormatterTest
     {
         [Test]
