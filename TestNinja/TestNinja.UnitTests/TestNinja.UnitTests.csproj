@@ -52,9 +52,11 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HtmlFormatterTest.cs" />
     <Compile Include="MathTests.cs" />
     <Compile Include="ReservationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextFixtureAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
